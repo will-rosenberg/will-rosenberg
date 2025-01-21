@@ -4,7 +4,7 @@
 - 🤔 Future goals: Learn more about AI, machine learning, data science, statistics, etc. I want to use that in my business but also I think it's a valuable long-term skill independent of my current business.
 - ✈️ Former Boeing engineer turned accent coach business owner... and now getting more and more into software too. I love it.
 - 👨🏻‍💻 Considering getting a job in software in parallel with my business, to invest more in that skillset (both for my business and long-term goals). One way or the other, I'm investing in software skills as I continue building my business.
-- 🔮 Long term goals: make my business awesome... and transition beyond just accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD!
+- 🔮 Long term goals: make my business awesome and really useful for my clients... and ultimately also transition beyond just accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. We'll see. May keep the business niched down, and spin up a separate project. TBD.
 - 📫 How to reach me: [DM me on Instagram.](https://www.instagram.com/SimpleAmericanAccent)
 - ⚡ Fun fact: Fluent and near-native ability in Portuguese and Spanish. Obsessed with sounding like a native speaker (or as close as I can get).
 
