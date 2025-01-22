@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m building [Simple American Accent](https://github.com/SimpleAmericanAccent). It's mainly a mentorship/coaching business... but I'm learning to code & adding in software over time to make it more of a "tech-enabled service."
-- 🤔 Future goals: Learn more about AI, machine learning, data science, statistics, etc. I want to use that in my business but also I think it's a valuable long-term skill independent of my current business.
+- 🤔 Future goals: Learn more about AI, machine learning, data science, statistics, etc. I want to use that in my business but also I think it's a valuable long-term skillset independent of my current business.
 - ✈️ Former Boeing engineer turned accent coach business owner... and now getting more and more into software too. I love it.
 - 👨🏻‍💻 Considering getting a job in software in parallel with my business, to invest more in that skillset (both for my business and long-term goals). One way or the other, I'm investing in software skills as I continue building my business.
 - 🔮 Long term goals: make my business awesome and really useful for my clients... and ultimately also transition beyond just accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. We'll see. May keep the business niched down, and spin up a separate project. TBD.
