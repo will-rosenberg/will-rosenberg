@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m building [Simple American Accent](https://github.com/SimpleAmericanAccent). It's mainly a mentorship/coaching business... but I'm learning to code & adding in software over time to make it more of a "tech-enabled service."
-- 🤔 Future goals: Learn more about AI, machine learning, data science, statistics, etc. I want to use that in my business but also I think it's a valuable long-term skillset independent of my current business.
-- ✈️ Former Boeing engineer turned accent coach business owner... and now getting more and more into software too. I love it.
-- 👨🏻‍💻 Considering getting a job in software in parallel with my business, to invest more in that skillset (both for my business and long-term goals). One way or the other, I'm investing in software skills as I continue building my business.
-- 🔮 Long term goals: make my business awesome and really useful for my clients... and ultimately also transition beyond just accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. We'll see. May keep the business niched down, and spin up a separate project. TBD.
+- 👨🏻‍💻 I'm a multilingual mechanical engineer with own accent coaching company, learning web development.
+- 🔭 Building [Simple American Accent](https://github.com/SimpleAmericanAccent) since 2018. I help Brazilians get an American accent, if they are already advanced in English.
+- ⚙️ It's a mentorship/coaching business... but I'm building my own app (and already using the MVP with clients) to make it more of a "tech-enabled service" and serve clients even better.
+- 👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business to 1) build my skills further and 2) stabilize my income / take some financial pressure off my business.
+- 🤔 Future goals: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
+- 🔮 Much longer term goals: Transition beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD.
 - 📫 How to reach me: [DM me on Instagram.](https://www.instagram.com/SimpleAmericanAccent)
 - ⚡ Fun fact: Fluent and near-native ability in Portuguese and Spanish. Obsessed with sounding like a native speaker (or as close as I can get).
 
