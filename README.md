@@ -43,7 +43,6 @@
   </details>
 
 <details><summary>🔮 Goals...</summary>
-
     <details>
       <summary>Business-specific</summary>
         <ul>
@@ -58,7 +57,6 @@
           <li>Financial: 12 months in a row of minimum $10k USD monthly sales</li>
         </ul>
     </details>
-
     <details>
       <summary>Software-specific</summary>
         <ul>
@@ -66,7 +64,6 @@
           <li>Longer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.</li>
         </ul>
     </details>
-
     <details>
       <summary>Life in general</summary>  
       <ul>
@@ -74,7 +71,6 @@
         <li>Run a marathon in under 4 hours. My first was around 7.5 hours.</li>
       </ul>
     </details>
-
 </details>
 
 <details>
