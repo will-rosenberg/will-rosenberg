@@ -20,7 +20,7 @@
 </details>
 
 <details>
-  <summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary>
+  <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business.</summary>
   <ul>
     <li>Why?
       <ul>  
@@ -28,6 +28,13 @@
         <li>to stabilize my income / take some financial pressure off my business.</li>
       </ul>
     </li>
+    <li>Ideally:
+      <ul>
+        <li>Part-time (10-30 hrs/wk)</li>
+        <li>Remote or hybrid in Chicago</li>
+        <li>Focused more on JavaScript/React... and less on design/HTML/CSS</li>
+      </ul>
+      </li>
     <li><a href="https://www.williamrosenberg.com">Here's my portfolio.</a></li>
   </ul>
   </details>
