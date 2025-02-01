@@ -9,18 +9,23 @@
   <ul>
     <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
     <li>Upgrading from a service business to a tech-enabled service business.</li>
-    <li>I'm building my own full stack web app and already using the MVP with clients.</li>
+    <li>I'm building my own full stack web app and already using the MVP with clients.
+      <ul>
+        <li>See my <a href="https://www.williamrosenberg.com">portfolio</a> for a simplified public demo of the app.</li>
+      </ul>
+      </li>
   </ul>
 </details>
 
 <details>
   <summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary>
   <ul>
-    <li>Why?</li>
-    <ul>  
-      <li>build my skills further &</li>
-      <li>stabilize my income / take some financial pressure off my business.</li>
-    </ul>
+    <li>Why?
+      <ul>  
+        <li>build my skills further &</li>
+        <li>stabilize my income / take some financial pressure off my business.</li>
+      </ul>
+    </li>
     <li><a href="https://www.williamrosenberg.com">Here's my portfolio.</a></li>
   </ul>
   </details>
