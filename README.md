@@ -8,6 +8,7 @@
 
 <details>
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.
+    <br />
     Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.
   </summary>
   <ul>
