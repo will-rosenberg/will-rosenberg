@@ -39,7 +39,7 @@
   </ul>
   </details>
 
-<details><summary>🔮 Goals:</summary>
+<details><summary>🔮 Goals...</summary>
   <ul>
     <li>Business-specific
       <ul>
