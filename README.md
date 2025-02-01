@@ -8,8 +8,8 @@
   - I'm building my own full stack web app and already using the MVP with clients.
 - 👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.
   -  Why?
-      -  1) build my skills further and
-      -  2) stabilize my income / take some financial pressure off my business.
+      -  1. build my skills further and
+      -  1. stabilize my income / take some financial pressure off my business.
   -  [Here's my portfolio.](https://www.williamrosenberg.com)
 - 🔮 Future goals:
   - Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
