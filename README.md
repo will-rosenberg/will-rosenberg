@@ -24,9 +24,15 @@
   </ul>
   </details>
 
-&nbsp;&nbsp;&nbsp;🔮 Future goals:
-  - Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
-  - Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD. But let's solve a narrow problem first...
+<details><summary>🔮 Future goals:</summary>
+  <ul>
+    <li>Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
+    </li>
+    <li>Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc.
+      TBD. But let's solve a narrow problem first...
+    </li>
+  </ul>
+</details>
 
 &nbsp;&nbsp;&nbsp;📫 How to reach me: DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent) or [LinkedIn](https://www.linkedin.com/in/wrosenberg/)
 
