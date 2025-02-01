@@ -6,11 +6,11 @@
   - 200k+ followers on Instagram.
   - Upgrading from a service business to a tech-enabled service business.
   - I'm building my own full stack web app and already using the MVP with clients.</details>
-<details><summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary></details>
+<details><summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary>
   -  Why?
       -  build my skills further and
       -  stabilize my income / take some financial pressure off my business.
-  -  [Here's my portfolio.](https://www.williamrosenberg.com)
+  -  <a href="https://www.williamrosenberg.com">Here's my portfolio.</a></details>
 - 🔮 Future goals:
   - Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
   - Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD. But let's solve a narrow problem first...
