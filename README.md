@@ -34,7 +34,7 @@
         <li>Remote or hybrid in Chicago</li>
         <li>Focused more on JavaScript/React... and less on design/HTML/CSS</li>
       </ul>
-      </li>
+    </li>
     <li><a href="https://www.williamrosenberg.com">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
   </ul>
   </details>
@@ -48,7 +48,7 @@
             <li>Develop reliable, rigorous accent measurement.</li>
             <li>Show statistically and personally significant improvements in clients' accents.</li>
             <li>Improve measurement of delivery success (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
-            <li>Do better at all of these.<li>
+            <li>Do better at all of these.</li>
           </ul>
         </li>
         <li>Financial: 12 months in a row of minimum $10k USD monthly sales</li>
