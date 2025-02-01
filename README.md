@@ -72,7 +72,6 @@
 </details>
 
 <br />
-<br />
 
 &nbsp;&nbsp;&nbsp;📫 How to reach me: DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent) or [LinkedIn](https://www.linkedin.com/in/wrosenberg/)
 <br />
