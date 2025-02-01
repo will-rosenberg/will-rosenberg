@@ -24,11 +24,13 @@
   </ul>
   </details>
 
-- 🔮 Future goals:
+🔮 Future goals:
   - Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
   - Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD. But let's solve a narrow problem first...
-- 📫 How to reach me: DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent) or [LinkedIn](https://www.linkedin.com/in/wrosenberg/)
-- ⚡ Fun fact: Fluent and near-native ability in Portuguese and Spanish. Obsessed with sounding like a native speaker (or as close as I can get). Native English speaker. I teach what I live, not just theory.
+
+📫 How to reach me: DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent) or [LinkedIn](https://www.linkedin.com/in/wrosenberg/)
+
+⚡ Fun fact: Fluent and near-native ability in Portuguese and Spanish. Obsessed with sounding like a native speaker (or as close as I can get). Native English speaker. I teach what I live, not just theory.
 
 <!--
 **will-rosenberg/will-rosenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
