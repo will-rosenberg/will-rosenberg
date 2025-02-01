@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-&nbsp;&nbsp;👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
+&nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
 
 <details>
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018. <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>
