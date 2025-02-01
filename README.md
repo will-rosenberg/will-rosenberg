@@ -39,12 +39,26 @@
   </ul>
   </details>
 
-<details><summary>🔮 Future goals:</summary>
+<details><summary>🔮 Goals:</summary>
   <ul>
-    <li>Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
+    <li>Business-specific
+      <ul>
+        <li>Client results:</li>
+        <li>Financial:</li>
+      </ul>
     </li>
-    <li>Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc.
-      TBD. But let's solve a narrow problem first...
+    <li>Software-specific
+      <ul>
+        <li>Near term: Become awesome at JavaScript/React/Express and use that in my business.</li>
+        <li>Longer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.</li>
+      </ul>
+    </li>
+    <li>Life in general
+      <ul>
+        <li>Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc.
+      TBD.</li>
+        <li>But let's solve a narrow problem first!</li>
+      </ul>
     </li>
   </ul>
 </details>
