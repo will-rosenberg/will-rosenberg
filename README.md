@@ -3,8 +3,8 @@
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
 <br />
 <br />
+<br />
 &nbsp;&nbsp;&nbsp;Click to expand:
-
 
 <details>
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.
