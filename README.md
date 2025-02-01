@@ -1,11 +1,16 @@
 ## Hi there 👋
 
 👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
-<details><summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.</summary>
-  - I help Brazilians get an American accent, if they are already advanced in English.
-  - 200k+ followers on Instagram.
-  - Upgrading from a service business to a tech-enabled service business.
-  - I'm building my own full stack web app and already using the MVP with clients.</details>
+
+<details>
+  <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018. <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a></summary>
+  <ul>
+    <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
+    <li>Upgrading from a service business to a tech-enabled service business.</li>
+    <li>I'm building my own full stack web app and already using the MVP with clients.</li>
+  </ul>
+</details>
+
 <details><summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary>
   -  Why?
       -  build my skills further and
