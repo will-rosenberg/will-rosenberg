@@ -2,9 +2,11 @@
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
 
+Click to expand:
+
 <details>
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.
-    Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>
+    Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.
   </summary>
   <ul>
     <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
