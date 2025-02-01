@@ -73,9 +73,9 @@
 
 <br />
 <br />
-<br />
 
 &nbsp;&nbsp;&nbsp;📫 How to reach me: DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent) or [LinkedIn](https://www.linkedin.com/in/wrosenberg/)
+<br />
 <br />
 &nbsp;&nbsp;&nbsp;⚡ Fun fact: Fluent and near-native ability in Portuguese and Spanish. I'm about 20 years deep into obsessing about sounding like a native speaker (or as close as I can get) in both of these. I'm a native speaker of American English with a so-called General American accent, but I'm pretty far from the norm when it comes to this obsession. I teach what I live, not just theory.
 
