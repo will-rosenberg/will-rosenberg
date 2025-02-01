@@ -47,7 +47,7 @@
           <ul>
             <li>Develop reliable, rigorous accent measurement.</li>
             <li>Show statistically and personally significant improvements in clients' accents.</li>
-            <li>Improve delivery success measurement (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
+            <li>Improve measurement of delivery success (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
             <li>Do better at all of these.<li>
           </ul>
         </li>
