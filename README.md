@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
-- <details><summary>🔭 Building [Simple American Accent](https://github.com/SimpleAmericanAccent) since 2018.</summary>
+👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
+<details><summary>🔭 Building [Simple American Accent](https://github.com/SimpleAmericanAccent) since 2018.</summary>
   - I help Brazilians get an American accent, if they are already advanced in English.
   - 200k+ followers on Instagram.
   - Upgrading from a service business to a tech-enabled service business.
