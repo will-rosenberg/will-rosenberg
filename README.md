@@ -5,15 +5,15 @@
 &nbsp;&nbsp;&nbsp;Click to expand:
 
 <details>
-  <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent" target="_blank">Simple American Accent</a> since 2018.
-    Grown to <a href="https://www.instagram.com/SimpleAmericanAccent" target="_blank">200k+ IG followers</a>.
+  <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.
+    Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.
   </summary>
   <ul>
     <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
     <li>Upgrading from a service business to a tech-enabled service business.</li>
     <li>I'm building my own full stack web app and already using the MVP with clients.
       <ul>
-        <li>See my <a href="https://www.williamrosenberg.com" target="_blank">portfolio</a> for a simplified public demo of the app.</li>
+        <li>See my <a href="https://www.williamrosenberg.com">portfolio</a> for a simplified public demo of the app.</li>
       </ul>
       </li>
   </ul>
@@ -35,7 +35,7 @@
         <li>Focused more on JavaScript/React... and less on design/HTML/CSS</li>
       </ul>
     </li>
-    <li><a href="https://www.williamrosenberg.com" target="_blank">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
+    <li><a href="https://www.williamrosenberg.com">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
   </ul>
   </details>
 
