@@ -43,33 +43,38 @@
   </details>
 
 <details><summary>🔮 Goals...</summary>
-  <ul>
-    <li>Business-specific
-      <ul>
-        <li>Client results:
-          <ul>
-            <li>Develop reliable, rigorous accent measurement.</li>
-            <li>Show statistically and personally significant improvements in clients' accents.</li>
-            <li>Improve measurement of delivery success (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
-            <li>Do better at all of these.</li>
-          </ul>
-        </li>
-        <li>Financial: 12 months in a row of minimum $10k USD monthly sales</li>
-      </ul>
-    </li>
-    <li>Software-specific
-      <ul>
-        <li>Near term: Become awesome at JavaScript/React/Express and use that in my business.</li>
-        <li>Longer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.</li>
-      </ul>
-    </li>
-    <li>Life in general
+
+    <details>
+      <summary>Business-specific</summary>
+        <ul>
+          <li>Client results:
+            <ul>
+              <li>Develop reliable, rigorous accent measurement.</li>
+              <li>Show statistically and personally significant improvements in clients' accents.</li>
+              <li>Improve measurement of delivery success (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
+              <li>Do better at all of these.</li>
+            </ul>
+          </li>
+          <li>Financial: 12 months in a row of minimum $10k USD monthly sales</li>
+        </ul>
+    </details>
+
+    <details>
+      <summary>Software-specific</summary>
+        <ul>
+          <li>Near term: Become awesome at JavaScript/React/Express and use that in my business.</li>
+          <li>Longer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.</li>
+        </ul>
+    </details>
+
+    <details>
+      <summary>Life in general</summary>  
       <ul>
         <li>Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD. (Let's solve a narrow problem first!)</li>
         <li>Run a marathon in under 4 hours. My first was around 7.5 hours.</li>
       </ul>
-    </li>
-  </ul>
+    </details>
+
 </details>
 
 <details>
