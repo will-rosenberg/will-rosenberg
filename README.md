@@ -6,7 +6,7 @@
   - 200k+ followers on Instagram.
   - Upgrading from a service business to a tech-enabled service business.
   - I'm building my own full stack web app and already using the MVP with clients.</details>
-- 👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.
+<details><summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary></details>
   -  Why?
       -  build my skills further and
       -  stabilize my income / take some financial pressure off my business.
