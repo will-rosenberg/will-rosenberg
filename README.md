@@ -8,8 +8,7 @@
 
 <details>
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.
-    <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.
+    Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.
   </summary>
   <ul>
     <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
