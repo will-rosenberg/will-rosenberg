@@ -22,8 +22,8 @@
   <ul>
     <li>Why?
       <ul>  
-        <li>build my skills further &</li>
-        <li>stabilize my income / take some financial pressure off my business.</li>
+        <li>to build my skills further &</li>
+        <li>to stabilize my income / take some financial pressure off my business.</li>
       </ul>
     </li>
     <li><a href="https://www.williamrosenberg.com">Here's my portfolio.</a></li>
