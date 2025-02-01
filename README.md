@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business.</summary>
+  <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business. <a href="https://www.williamrosenberg.com">Already built an MVP full stack app for my business.</a></summary>
   <ul>
     <li>Why?
       <ul>  
