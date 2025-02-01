@@ -3,7 +3,8 @@
 👨🏻‍💻 I'm a multilingual mechanical engineer with my own accent coaching company, learning web development.
 
 <details>
-  <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018. <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a></summary>
+  <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018. <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>
+  </summary>
   <ul>
     <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
     <li>Upgrading from a service business to a tech-enabled service business.</li>
@@ -11,11 +12,18 @@
   </ul>
 </details>
 
-<details><summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary>
-  -  Why?
-      -  build my skills further and
-      -  stabilize my income / take some financial pressure off my business.
-  -  <a href="https://www.williamrosenberg.com">Here's my portfolio.</a></details>
+<details>
+  <summary>👨🏻‍💻 Currently seeking a part-time front-end web development job (10-30 hrs/wk) in parallel with my business.</summary>
+  <ul>
+    <li>Why?</li>
+    <ul>  
+      <li>build my skills further &</li>
+      <li>stabilize my income / take some financial pressure off my business.</li>
+    </ul>
+    <li><a href="https://www.williamrosenberg.com">Here's my portfolio.</a></li>
+  </ul>
+  </details>
+
 - 🔮 Future goals:
   - Nearer term: Learn more about AI, machine learning, data science, statistics, etc and use that in my business.
   - Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD. But let's solve a narrow problem first...
