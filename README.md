@@ -43,6 +43,7 @@
   </details>
 
 <details><summary>🔮 Goals...</summary>
+  <blockquote>  
     <details>
       <summary>Business-specific</summary>
         <ul>
@@ -71,6 +72,7 @@
         <li>Run a marathon in under 4 hours. My first was around 7.5 hours.</li>
       </ul>
     </details>
+  </blockquote>
 </details>
 
 <details>
