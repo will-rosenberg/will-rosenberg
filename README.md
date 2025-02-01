@@ -35,7 +35,7 @@
         <li>Focused more on JavaScript/React... and less on design/HTML/CSS</li>
       </ul>
       </li>
-    <li><a href="https://www.williamrosenberg.com">Here's my portfolio.</a></li>
+    <li><a href="https://www.williamrosenberg.com">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
   </ul>
   </details>
 
