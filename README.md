@@ -43,8 +43,15 @@
   <ul>
     <li>Business-specific
       <ul>
-        <li>Client results:</li>
-        <li>Financial:</li>
+        <li>Client results:
+          <ul>
+            <li>Develop reliable, rigorous accent measurement.</li>
+            <li>Show statistically and personally significant improvements in clients' accents.</li>
+            <li>Improve delivery success measurement (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
+            <li>Do better at all of these.<li>
+          </ul>
+        </li>
+        <li>Financial: 12 months in a row of minimum $10k USD monthly sales</li>
       </ul>
     </li>
     <li>Software-specific
