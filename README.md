@@ -10,6 +10,7 @@
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a> since 2018.
     Grown to <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.
   </summary>
+  <br />
   <ul>
     <li>I help Brazilians get an American accent, if they are already advanced in English.</li>
     <li>Upgrading from a service business to a tech-enabled service business.</li>
@@ -22,7 +23,9 @@
 </details>
 
 <details>
-  <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business. <a href="https://www.williamrosenberg.com">Already built an MVP full stack app for my business.</a></summary>
+  <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business. <a href="https://www.williamrosenberg.com">Already built an MVP full stack app for my business.</a>
+  </summary>
+  <br />
   <ul>
     <li>Why?
       <ul>  
@@ -42,6 +45,7 @@
   </details>
 
 <details><summary>🔮 Goals...</summary>
+  <br />
   <ul>
     <li>Business-specific
       <ul>
