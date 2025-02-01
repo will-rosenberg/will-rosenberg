@@ -20,6 +20,7 @@
       </ul>
       </li>
   </ul>
+  <br />
 </details>
 
 <details>
