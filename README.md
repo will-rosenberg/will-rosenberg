@@ -62,9 +62,8 @@
     </li>
     <li>Life in general
       <ul>
-        <li>Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc.
-      TBD.</li>
-        <li>But let's solve a narrow problem first!</li>
+        <li>Much longer term: Go beyond just American accent for Brazilians... to somehow contribute more generally to speech, language, communication, consciousness, etc. TBD. (Let's solve a narrow problem first!)</li>
+        <li>Run a marathon in under 4 hours. My first was around 7.5 hours 😬</li>
       </ul>
     </li>
   </ul>
