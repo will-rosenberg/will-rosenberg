@@ -33,8 +33,8 @@
     </li>
     <li>Ideally:
       <ul>
-        <li>Part-time (10-30 hrs/wk)</li>
-        <li>Remote or hybrid in Chicago</li>
+        <li>Less than full-time would be great (10-40 hrs/wk), to have more time for my business</li>
+        <li>Remote (or potentially hybrid if in Chicago)</li>
         <li>Focused more on React/JavaScript and less on design/HTML/CSS</li>
       </ul>
     </li>
