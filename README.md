@@ -35,7 +35,7 @@
       <ul>
         <li>Part-time (10-30 hrs/wk)</li>
         <li>Remote or hybrid in Chicago</li>
-        <li>Focused more on JavaScript/React (and Express if needed)... and less on design/HTML/CSS</li>
+        <li>Focused more on React/JavaScript and less on design/HTML/CSS</li>
       </ul>
     </li>
     <li><a href="https://www.williamrosenberg.com">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
