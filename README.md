@@ -21,6 +21,7 @@
   </ul>
 </details>
 
+<!--
 <details>
   <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business. <a href="https://www.williamrosenberg.com">Already built an MVP full stack app for my business.</a>
   </summary>
@@ -40,7 +41,8 @@
     </li>
     <li><a href="https://www.williamrosenberg.com">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
   </ul>
-  </details>
+  </details> 
+-->
 
 <details><summary>🔮 Goals...</summary>
   <blockquote>  
