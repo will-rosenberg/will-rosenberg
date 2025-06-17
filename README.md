@@ -51,6 +51,7 @@
         <ul>
           <li>Client results:
             <ul>
+              <li>Help 10 Brazilian clients get an American accent (to where they sound convincingly American a significant amount of the time - more rigorous definition TBD)</li>
               <li>Develop reliable, rigorous accent measurement.</li>
               <li>Show statistically and personally significant improvements in clients' accents.</li>
               <li>Improve measurement of delivery success (accent improvement, testimonials, referrals, renewals; TTV, CHS, NPS, CRR, etc).</li>
