@@ -3,6 +3,7 @@
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm Will — a multilingual mechanical engineer turned accent coach and full-stack developer.
 
 I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018 to help Brazilians who already speak advanced English to sound more American.
+We’ve since grown to **200k+ Instagram followers** — and I'm now building custom tech to scale impact even further.
 
 ---
 
@@ -10,7 +11,6 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a></summary>
   <ul>
     <li>Helping Brazilians master an American accent (advanced English level required).</li>
-    <li>Started in 2018 — now at <a href="https://www.instagram.com/SimpleAmericanAccent">200k+ IG followers</a>.</li>
     <li>Shifting from pure service to tech-enabled service.</li>
     <li>Built and actively improving a custom full-stack web app for my clients.
       <ul>
