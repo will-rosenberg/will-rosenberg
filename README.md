@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-&nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm Will — a multilingual mechanical engineer turned accent coach and full-stack developer in progress.
+&nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm Will — a multilingual mechanical engineer turned accent coach and full-stack developer.
 
-I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018 to help Brazilians who already speak advanced English sound more American.
+I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018 to help Brazilians who already speak advanced English to sound more American.
 
 ---
 
@@ -19,26 +19,6 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
     </li>
   </ul>
 </details>
-
-<!--
-<details>
-  <summary>👨🏻‍💻 Exploring part-time front-end dev roles (10–40 hrs/week)</summary>
-  <ul>
-    <li>Why:
-      <ul>  
-        <li>Build skills + reduce financial pressure on the business.</li>
-      </ul>
-    </li>
-    <li>Ideal:
-      <ul>
-        <li>Remote (or hybrid in Chicago)</li>
-        <li>React/JavaScript-heavy, less design-focused</li>
-      </ul>
-    </li>
-    <li><a href="https://www.williamrosenberg.com">Portfolio + app demo</a></li>
-  </ul>
-</details> 
--->
 
 <details>
   <summary>🔮 Goals</summary>
@@ -114,29 +94,6 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
       </li>
   </ul>
 </details>
-
-<!--
-<details>
-  <summary>👨🏻‍💻 Seeking a front-end web development job in parallel with my business. <a href="https://www.williamrosenberg.com">Already built an MVP full stack app for my business.</a>
-  </summary>
-  <ul>
-    <li>Why?
-      <ul>  
-        <li>to build my skills further &</li>
-        <li>to stabilize my income / take some financial pressure off my business.</li>
-      </ul>
-    </li>
-    <li>Ideally:
-      <ul>
-        <li>Less than full-time would be great (10-40 hrs/wk), to have more time for my business</li>
-        <li>Remote (or potentially hybrid if in Chicago)</li>
-        <li>Focused more on React/JavaScript and less on design/HTML/CSS</li>
-      </ul>
-    </li>
-    <li><a href="https://www.williamrosenberg.com">Here's my portfolio, including a demo version of the app I'm using with my accent coaching clients in my business.</a></li>
-  </ul>
-  </details> 
--->
 
 <details><summary>🔮 Goals...</summary>
   <blockquote>  
