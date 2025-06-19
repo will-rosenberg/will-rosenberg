@@ -37,7 +37,6 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
           <li><strong>Financial:</strong> Hit $10k USD/month sales for 12 straight months.</li>
         </ul>
     </details>
-    
     <details>
       <summary>Software</summary>
         <ul>
@@ -62,6 +61,7 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
     <li>Born and raised in the U.S. — native speaker of American English (General American).</li>
     <li>I teach what I live — not just theory.</li>
   </ul>
+</details>
 </details>
 
 ---
