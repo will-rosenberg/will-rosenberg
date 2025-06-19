@@ -55,9 +55,9 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
 </details>
 
 <details>
-  <summary>⚡ Fun fact: Fluent in Portuguese and Spanish</summary>
+  <summary>⚡ Fun fact: Fluent and near-native ability in Portuguese and Spanish</summary>
   <ul>
-    <li>About 20 years deep into trying to sound native in both languages.</li>
+    <li>About 20 years deep into obsessing about sounding like a native (or as close as I can get) in both languages.</li>
     <li>Born and raised in the U.S. — native speaker of American English (General American).</li>
     <li>I teach what I live — not just theory.</li>
   </ul>
@@ -141,19 +141,3 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
 <br />
 
 &nbsp;&nbsp;&nbsp;📫 How to reach me: DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent) or [LinkedIn](https://www.linkedin.com/in/wrosenberg/)
-
-
-<!--
-**will-rosenberg/will-rosenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
