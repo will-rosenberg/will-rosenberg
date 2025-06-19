@@ -40,7 +40,7 @@ We’ve since grown to **200k+ Instagram followers** — and I'm now building cu
     <details>
       <summary>Software</summary>
         <ul>
-          <li>Near term: Become strong in JavaScript, React, and Express.</li>
+          <li>Near term: Become awesome at web app development.</li>
           <li>Later: Explore AI/ML, data science, statistics — and use them in accent coaching.</li>
         </ul>
     </details>
