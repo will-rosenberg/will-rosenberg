@@ -29,12 +29,10 @@ We’ve since grown to **200k+ Instagram followers** — and I'm now building cu
           <li><strong>Client results:</strong>
             <ul>
               <li>Help 10 Brazilian clients reach a convincingly American accent (rigorous definition pending).</li>
-              <li>Develop reliable, rigorous accent measurement.</li>
-              <li>Show statistically and personally significant improvements in clients' accents.</li>
+              <li>Develop reliable, rigorous accent measurement - and show significant improvements in clients' accents.</li>
               <li>Improve delivery metrics (accent results, testimonials, referrals, renewals, TTV, CHS, NPS, CRR, etc.).</li>
             </ul>
           </li>
-          <li><strong>Financial:</strong> Hit $10k USD/month sales for 12 straight months.</li>
         </ul>
     </details>
     <details>
