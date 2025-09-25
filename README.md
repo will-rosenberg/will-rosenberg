@@ -5,7 +5,7 @@
 I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018 to help Brazilians who already speak advanced English to sound more American.
 We’ve since grown to **200k+ Instagram followers** — and I'm building my own web app to help even better.
 
-[App/business walkthrough here](https://youtu.be/ne7TSr-LaXk)
+[App/business walkthrough here (5 minute video)](https://youtu.be/ne7TSr-LaXk)
 
 ---
 
