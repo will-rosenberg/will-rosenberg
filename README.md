@@ -15,9 +15,6 @@ We’ve since grown to **200k+ Instagram followers** — and I'm building my own
     <li>Helping Brazilians master an American accent (advanced English level required).</li>
     <li>Shifting from pure service to tech-enabled service.</li>
     <li>Built and actively improving a custom full-stack web app for my clients.
-      <ul>
-        <li>See my <a href="https://www.williamrosenberg.com">portfolio</a> for a simplified public demo.</li>
-      </ul>
     </li>
   </ul>
 </details>
