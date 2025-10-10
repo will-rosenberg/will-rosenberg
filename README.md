@@ -1,6 +1,6 @@
-## Hi there 👋
+I'm a mechanical engineer turned accent coach & full-stack developer...
 
-&nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm Will — a multilingual mechanical engineer turned accent coach and full-stack developer.
+... and I've been obsessed with speaking Portuguese and Spanish "like a native" since I was a teenager.
 
 I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. Since then, we've reached: 
 - 200k+ Instagram followers
