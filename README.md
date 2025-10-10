@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm Will — a multilingual mechanical engineer turned accent coach and full-stack developer.
 
-I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. Since then, I've reached: 
+I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. Since then, we've reached: 
 - 200k+ Instagram followers
 - 400+ clients
 
