@@ -2,6 +2,8 @@ I'm a mechanical engineer turned accent coach & full-stack developer...
 
 ... and I've been obsessed with speaking Portuguese and Spanish "like a native" since I was a teenager.
 
+Now I use my experience to help Brazilians who want an American accent.
+
 I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. Since then, we've reached: 
 - 200k+ Instagram followers
 - 400+ clients
