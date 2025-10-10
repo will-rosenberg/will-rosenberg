@@ -6,7 +6,7 @@ I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAcc
 - 200k+ Instagram followers
 - 400+ clients
 
-I built a full-stack web app to help my clients even better:
+I built a full-stack web app that's in production, used by my accent coaching clients:
 - 👨🏻‍💻 [Repo](https://github.com/SimpleAmericanAccent/saa-app-web) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
 - 📺 [App demo/business walkthrough (5 minute video)](https://youtu.be/1I5FPCRFm7o)
 
