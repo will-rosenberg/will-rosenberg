@@ -2,14 +2,17 @@
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 I'm Will — a multilingual mechanical engineer turned accent coach and full-stack developer.
 
-I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018 to help Brazilians who already speak advanced English to sound more American.
-We’ve since grown to **200k+ Instagram followers** — and I'm building my own web app to help even better.
+I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. 
 
-📺 [App/business walkthrough here (5 minute video)](https://youtu.be/1I5FPCRFm7o)
+We're now at **200k+ Instagram followers** and have helped 400+ clients. 
+
+I built a full-stack web app to help my clients even better:
+- 👨🏻‍💻 [Repo](https://github.com/SimpleAmericanAccent/saa-app-web) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
+- 📺 [App demo/business walkthrough (5 minute video)](https://youtu.be/1I5FPCRFm7o)
 
 ---
 
-<details>
+<!-- <details>
   <summary>🔭 Building <a href="https://github.com/SimpleAmericanAccent">Simple American Accent</a></summary>
   <ul>
     <li>Helping Brazilians master an American accent (advanced English level required).</li>
@@ -59,8 +62,6 @@ We’ve since grown to **200k+ Instagram followers** — and I'm building my own
     <li>I teach what I live — not just theory.</li>
   </ul>
 </details>
-</details>
-
----
+</details> -->
 
 📫 **DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent)** or **[LinkedIn](https://www.linkedin.com/in/wrosenberg/)** to connect.
