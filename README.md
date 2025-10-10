@@ -4,7 +4,7 @@
 
 I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. 
 
-We're now at **200k+ Instagram followers** and 400+ clients. 
+We're now at **200k+ Instagram followers** and **400+ clients**. 
 
 I built a full-stack web app to help my clients even better:
 - 👨🏻‍💻 [Repo](https://github.com/SimpleAmericanAccent/saa-app-web) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
