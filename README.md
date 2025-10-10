@@ -1,16 +1,13 @@
-I'm a mechanical engineer turned accent coach & full-stack developer...
-
-... and I've been obsessed with speaking Portuguese and Spanish "like a native" since I was a teenager.
-
-Now I use my experience to help Brazilians who want an American accent.
-
-I founded **[Simple American Accent](https://www.instagram.com/SimpleAmericanAccent)** in 2018. Since then, we've reached: 
-- 200k+ Instagram followers
-- 400+ clients
-
-I built a full-stack web app that's in production, used by my accent coaching clients:
-- 👨🏻‍💻 [Repo](https://github.com/SimpleAmericanAccent/saa-app-web) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
-- 📺 [App demo/business walkthrough (5 minute video)](https://youtu.be/1I5FPCRFm7o)
+Mechanical engineer turned accent coach & full-stack developer:
+- 1992:           Hello, world
+- 2002-Present:   Obsessed with speaking Portuguese & Spanish "like a native"
+- 2010-2018:      College + ~3 years of work as a mechanical engineer
+- 2018-Present:   Started my own company ([**Simple American Accent**](https://www.instagram.com/SimpleAmericanAccent)) to help Brazilians who want an American accent
+  - 200k+ Instagram followers
+  - 400+ clients
+- 2024-Present:   I built a full-stack web app that's in production, used by my accent coaching clients:
+  - 👨🏻‍💻 [Repo](https://github.com/SimpleAmericanAccent/saa-app-web) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
+  - 📺 [App demo/business walkthrough (5 minute video)](https://youtu.be/1I5FPCRFm7o)
 
 ---
 
