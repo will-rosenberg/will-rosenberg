@@ -1,8 +1,7 @@
 Mechanical engineer turned accent coach & full-stack developer:
 
-- 2024-Present:   I built a **full-stack web app** that's in production, used by my accent coaching clients:
-  - 👨🏻‍💻 [Repo](https://github.com/SimpleAmericanAccent/saa-app-web) - React, Node & Express, Postgres & Prisma, Tailwind, Vite
-  - 📺 [App demo/business walkthrough (5 minute video)](https://youtu.be/1I5FPCRFm7o)
+- 2024-Present:   I built a **full-stack web app** (React, Node, Express, Postgres) that my accent coaching clients use:
+  - [Demo Access, Demo Video, & Explore Repo - Click Here](https://williamrosenberg.com?utm_source=github)
 
 - 2018-Present:   Started my own company ([**Simple American Accent**](https://www.instagram.com/SimpleAmericanAccent)) to help Brazilians who want an American accent
   - 200k+ Instagram followers
