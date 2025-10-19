@@ -67,4 +67,4 @@ Mechanical engineer turned accent coach & full-stack engineer:
 </details>
 </details> -->
 
-📫 **DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent)** or **[LinkedIn](https://www.linkedin.com/in/wrosenberg/)** to connect.
+📫 **DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent)** or **[LinkedIn](https://www.linkedin.com/in/will-rosenberg/)** to connect.
