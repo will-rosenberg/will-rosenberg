@@ -1,4 +1,4 @@
-Mechanical engineer turned accent coach & full-stack engineer:
+Mechanical engineer turned full-stack engineer & accent coach:
 
 - 2024-Present:   I built a **full-stack web app** (React, Node, Express, Postgres) that my accent coaching clients use:
   - [Demo Access, Demo Video, & Explore Repo - Click Here](https://williamrosenberg.com?utm_source=github)
