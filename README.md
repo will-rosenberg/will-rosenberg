@@ -12,7 +12,7 @@ Full-stack engineer & accent coach:
 
 - 2002-Present:   Obsessed with speaking Portuguese & Spanish "like a native"
 
-- 1992:           Hello, world
+- 1992:           Hello world
 
 ---
 
