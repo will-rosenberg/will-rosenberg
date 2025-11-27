@@ -1,4 +1,4 @@
-Full-stack engineer & accent coach:
+Full-stack engineer & founder:
 
 - 2025-Present:   Documenting my journey towards a full-stack engineering full-time job [here](https://github.com/will-rosenberg/dev-journal). Resume available [here](https://williamrosenberg.com/resume).
 - 2024-Present:   I built and maintain a **full-stack web app** (React, Node, Express, Postgres) that my accent coaching clients use:
