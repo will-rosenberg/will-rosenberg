@@ -2,7 +2,8 @@ Full-stack engineer & founder:
 
 - 2025-Present:   Documenting my journey towards a full-stack engineering full-time job [here](https://github.com/will-rosenberg/dev-journal). Resume available [here](https://williamrosenberg.com/resume).
 - 2024-Present:   I built and maintain a **full-stack web app** (React, Node, Express, Postgres) that my accent coaching clients use:
-  - Live app demo and source code available [here](https://www.github.com/SimpleAmericanAccent/saa-app-web)
+  - <a href="https://github.com/SimpleAmericanAccent/saa"><img src="https://github.com/SimpleAmericanAccent/saa/blob/main/docs/screenshot.png"></a>
+  - Live app demo and source code available [here](https://www.github.com/SimpleAmericanAccent/saa)
 
 - 2018-Present:   Started **Simple American Accent** to help Brazilians who want an American accent
   - GitHub org [here](https://www.github.com/SimpleAmericanAccent)
