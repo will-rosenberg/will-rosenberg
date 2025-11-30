@@ -28,8 +28,6 @@ Full-stack engineer & founder:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS 3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    </p>
-    <p align="left">
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
                           <a href="https://vite.dev/" target="_blank" rel="noreferrer">
@@ -46,8 +44,6 @@ Full-stack engineer & founder:
       <img src="https://jestjs.io/img/favicon/favicon.ico" alt="Jest" width="40" height="40"/></a>
                 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/></a>
-    </p>
-    <p align="left">
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
