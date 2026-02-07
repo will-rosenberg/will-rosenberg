@@ -22,4 +22,4 @@ Resume [here](https://williamrosenberg.com/resume).
 
 ---
 
-📫 **DM me on [Instagram](https://www.instagram.com/SimpleAmericanAccent)** or **[LinkedIn](https://www.linkedin.com/in/will-rosenberg/)** to connect.
+📫 Reach out via **[LinkedIn](https://www.linkedin.com/in/will-rosenberg/)** to connect.
