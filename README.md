@@ -1,25 +1,19 @@
 Product-focused full-stack software engineer.
 
-I run a tech-enabled accent coaching business and built & maintain the software that supports it.
+I built and maintain a web app (React, Node, Express, Postgres) that my accent coaching clients use.
 
-Resume [here](https://williamrosenberg.com/resume).
+<a href="https://github.com/SimpleAmericanAccent/saa"><img src="https://github.com/SimpleAmericanAccent/saa/blob/main/docs/screenshot.png"></a>
 
----
+5-minute walkthrough video and source code available [here](https://www.github.com/SimpleAmericanAccent/saa)
 
-- 2024-Present:   I built and maintain a **full-stack web app** (React, Node, Express, Postgres) that my accent coaching clients use:
-  - <a href="https://github.com/SimpleAmericanAccent/saa"><img src="https://github.com/SimpleAmericanAccent/saa/blob/main/docs/screenshot.png"></a>
-  - 5-minute walkthrough video and source code available [here](https://www.github.com/SimpleAmericanAccent/saa)
+This software was built to support my business, Simple American Accent, where I help Brazilians who want a more American accent.
 
-- 2018-Present:   Started **Simple American Accent** to help Brazilians who want an American accent
-  - GitHub org [here](https://www.github.com/SimpleAmericanAccent)
-  - 200k+ [Instagram](https://www.instagram.com/SimpleAmericanAccent) followers & 400+ clients
+The business has served 400+ clients since 2018, and the app supports accent training, analysis, and feedback.
 
-- 2010-2018:      College + ~3 years of work as a mechanical engineer
+Before building software for my own business, I worked as a systems engineer at Boeing on large-scale aerospace systems and completed an MIT Professional Education certificate in Architecture & Systems Engineering.
 
-- 2002-Present:   Obsessed with speaking Portuguese & Spanish "like a native"
-
-- 1992:           Hello world
+That background influences how I think about tradeoffs, reliability, and real-world constraints when building software.
 
 ---
 
-📫 Reach out via **[LinkedIn](https://www.linkedin.com/in/will-rosenberg/)** to connect.
+📫 Resume [here](https://williamrosenberg.com/resume). Happy to connect on **[LinkedIn](https://www.linkedin.com/in/will-rosenberg/)**.
