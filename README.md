@@ -1,6 +1,6 @@
 Product-focused full-stack software engineer.
 
-I run a tech-enabled accent coaching business and built the software that supports it.
+I run a tech-enabled accent coaching business and built & maintain the software that supports it.
 
 Resume [here](https://williamrosenberg.com/resume).
 
