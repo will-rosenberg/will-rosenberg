@@ -1,4 +1,4 @@
-Full-stack / product engineer.
+Product-focused full-stack software engineer.
 
 I run a tech-enabled accent coaching business and built the software that supports it.
 
